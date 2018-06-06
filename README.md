@@ -6,7 +6,9 @@ Python 3.6 is required.
 
 The project is based on PyTorch 0.3.1, with Torchvision 0.2.0. If u want to run it under the newest 0.4.0(launched in late April), there should be some modifications yet to be done.   
 
-Also, the whole project was written on Jupyter Notebook.  For those above, I recommand using *Anaconda* to set up the environment.
+Also, the whole project was written on Jupyter Notebook.  
+
+For the above, I recommand using *Anaconda* to set up the environment.
 
 ## Datasets
 Any dataset can be used, as long as u make sure that each class is in its own folder. 
