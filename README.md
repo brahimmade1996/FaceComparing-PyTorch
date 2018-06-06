@@ -1,6 +1,6 @@
 # FaceComparing-PyTorch
-For my final year project, I did a little project about Face Comparing.\n
-All the codes are based on PyTorch 0.3.1. And it needs to be modified if u want to run it under the newest 0.4.0(launched in late April).\n
+For my final year project, I did a little project about Face Comparing.
+All the codes are based on PyTorch 0.3.1. And it needs to be modified if u want to run it under the newest 0.4.0(launched in late April).
 I used 2 metric learning algorithms(Siamese CNN and Triplet CNN) in my project.
 
 ## Online Triplet Mining
