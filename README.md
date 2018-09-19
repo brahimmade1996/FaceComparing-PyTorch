@@ -28,7 +28,3 @@ Also i had a little try on a mixed-strategy, that is using Batch-All at the begi
 *Triplet CNN Batch-All Batch-Semi-Hard.ipynb* and *Triplet CNN Batch-Hard.ipynb* are Triplet CNN models with different Online Triplet Mining strategies.
 
 The *Triplet CNN Software.ipynb* is the testing part of those Triplet CNN models above(results are based on the Mixed-Strategy). 
-
-## Pre-trained Models
-Download from my [Baidu NetDisk](https://pan.baidu.com/s/1IYyKlurTCStFKyDuLhkYbg).
-Password:l38a
