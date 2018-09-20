@@ -8,8 +8,6 @@ The project is based on PyTorch 0.3.1, with Torchvision 0.2.0. If u want to run 
 
 Also, the whole project was written on Jupyter Notebook.  
 
-For the above, I recommand using *Anaconda* to set up the environment.
-
 ## Datasets
 Any dataset can be used, as long as u make sure that each class is in its own folder. 
 
